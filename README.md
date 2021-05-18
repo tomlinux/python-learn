@@ -19,3 +19,7 @@ http.request.method == 'GET' and http.host == 'update.cz88.net'
 qqwry.rar 的前 512(0x200) 个字节，需要用到 copywrite.rar 中的 key 进行解密。
 
 4.代码入 [QQwryUpdater.py](./QQwryUpdater.py)
+
+
+# 参考
+* 纯真数据库： https://tool.lu/wiki/auto-upgrade-czip.html
